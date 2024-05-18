@@ -16,7 +16,7 @@ Here is a link to the dataset: [link](https://drive.google.com/file/d/1--9ja9T1H
 
 Notebook Breakdown:
 - ```Reddit_Comment_Classifier.ipynb```: This notebook shows the process in developing the classification model as well as the reason for the selecting the best classification model.
-- ```Reddit_Comment_Classifier_Inference.ipynb```: This notebooks provides a simple work through to which the serialized best classication model can be evaluated.
+- ```Reddit_Comment_Classifier_Inference.ipynb```: This notebooks provides a simple work through to which the serialized best classication model is used for inferencing.
 
   
 This the link to the vectorized model: [link](https://drive.google.com/file/d/1-9yC7QJGIRdK7NLlpJPzP2IPB8fj5Txh/view?usp=sharing)
