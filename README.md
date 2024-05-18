@@ -19,6 +19,6 @@ Notebook Breakdown:
 - ```Reddit_Comment_Classifier_Inference.ipynb```: This notebooks provides a simple work through to which the serialized best classication model is used for inferencing.
 
   
-This the link to the vectorized model: [link](https://drive.google.com/file/d/1-9yC7QJGIRdK7NLlpJPzP2IPB8fj5Txh/view?usp=sharing)
-This is the link to the classification model: [link](https://drive.google.com/file/d/18BpNLost6sx-kMf6CtGNxn1knATn4smt/view?usp=sharing)
+This the link to the vectorized model: [link](https://drive.google.com/file/d/1-9yC7QJGIRdK7NLlpJPzP2IPB8fj5Txh/view?usp=sharing).
+This is the link to the classification model: [link](https://drive.google.com/file/d/18BpNLost6sx-kMf6CtGNxn1knATn4smt/view?usp=sharing).
 
